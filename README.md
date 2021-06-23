@@ -3,11 +3,11 @@
 
 
 
-Meu nome é Guilherme Bittelbrun🙋‍♂️, atualmente estou no 2° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
+Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 2° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
 
 Atualmente sou estudante do curso do [ProgramadorBR](https://programadorbr.com) 👨🏻‍🎓 e busco por oportunidades no mercado de trabalho para aprofundar meus conhecimentos como programador💼
 
-#### - "Mantenha-se sempre humilde e modesto. Foque no sucesso do outro. Deixe que seus sucessos falem por si mesmos" 🌎
+#### - "Mantenha-se sempre humilde e modesto. Foque no sucesso do outro. Deixe que os seus falem por si mesmos" 🌎
 
 
   <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-CSS" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Rafa-Js" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Rafa-Python" height="30" width="40"  display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
