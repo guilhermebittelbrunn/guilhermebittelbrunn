@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo! 🖥️👋
-<a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/guilherme_bittelbrunn/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/guilherme.bittelbrunn"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="mailto:guilherme.bitte@unifebe.edu.br"><img src="https://img.shields.io/badge/e‑mail-F13536.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
+<a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/guilherme_bittelbrunn/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/guilherme.bittelbrunn"><img src="https://img.shields.io/badge/facebook-0077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="mailto:guilherme.bitte@unifebe.edu.br"><img src="https://img.shields.io/badge/e‑mail-F13536.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
 
 
 
