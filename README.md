@@ -14,4 +14,4 @@ Atualmente sou estudante do curso do [ProgramadorBR](https://programadorbr.com) 
 
 <br>
 
-[![Top Langs](height="180em" https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact)](https://github.com/guilhermebittelbrunn/github-readme-statstheme=dracula")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact)](https://github.com/guilhermebittelbrunn/github-readme-statstheme=dracula")
