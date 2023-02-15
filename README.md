@@ -3,7 +3,7 @@
 
 
 
-Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 4° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
+Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 5° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
 
 Atualmente sou estudante do curso do [ProgramadorBR](https://programadorbr.com) 👨🏻‍🎓 e busco por oportunidades no mercado de trabalho para aprofundar meus conhecimentos como programador💼
 
