@@ -5,13 +5,12 @@
 
 Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 5° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
 
-Atualmente sou estudante do curso do [ProgramadorBR](https://programadorbr.com) 👨🏻‍🎓 e busco por oportunidades no mercado de trabalho para aprofundar meus conhecimentos como programador💼
+Atuo como auxiliar de TI na empresa grupo SBA (World Blue), onde dou suporte as necessidades de informática solicitadas na equipe e desenvolvo as programações laterais que exigem demanda na empresa, nas quais utilizo para realização da mesma, ReactJS, em aplicações front-end, e NodeJS, em aplicações back-end.💼
 
 #### - "Mantenha-se sempre humilde e modesto. Foque no sucesso do outro. Deixe que os seus falem por si mesmos" 🌎
 
-
   <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-CSS" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Rafa-Js" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/reactjs-original.svg"> 
+ <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg"> 
  <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">   <img align="center" alt="Rafa-Python" height="30" width="40"  display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <br>
