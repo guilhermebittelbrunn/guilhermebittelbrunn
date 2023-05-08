@@ -17,6 +17,5 @@ Atualmente sou estudante do curso do [ProgramadorBR](https://programadorbr.com) 
 <br>
 
 <div text-align:center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameguilhermebittelbrunn&show_icons=true&theme=dracula)
-
+https://github-readme-stats.vercel.app/api?username=guilhermebittelbrunn&show_icons=true&theme=tokyonight
 </div>
