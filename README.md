@@ -13,7 +13,9 @@ Atuo como auxiliar de TI na empresa grupo SBA (World Blue), onde dou suporte as 
  <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
  <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> 
- <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">   <img align="center" alt="Rafa-Python" height="30" width="40"  display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">   
+ <img align="center" alt="Rafa-Python" height="30" width="40"  display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+ <img align="center" alt="Rafa-Python" height="30" width="40"  display = "inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <br>
 
