@@ -3,7 +3,7 @@
 
 
 
-Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 5° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
+Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 6° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
 
 Atuo como auxiliar de TI na empresa grupo SBA (World Blue), onde dou suporte as necessidades de informática solicitadas na equipe e desenvolvo as programações laterais que exigem demanda na empresa, nas quais utilizo para realização da mesma, ReactJS, em aplicações front-end, e NodeJS, em aplicações back-end.💼
 
@@ -19,6 +19,7 @@ Atuo como auxiliar de TI na empresa grupo SBA (World Blue), onde dou suporte as 
 <br>
 
 <div text-align:center>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermebittelbrunn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
 </div>
 
