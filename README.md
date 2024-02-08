@@ -20,7 +20,7 @@ Atuo como auxiliar de TI na empresa grupo SBA (World Blue), onde dou suporte as 
             <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
 </div
 <br>
-
+<br>
 <div text-align:center>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermebittelbrunn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
