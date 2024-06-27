@@ -5,7 +5,7 @@
 
 Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 7° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
 
-Atuo como auxiliar de TI na empresa grupo SBA (World Blue), onde dou suporte as necessidades de informática solicitadas na equipe e desenvolvo as programações laterais que exigem demanda na empresa, nas quais utilizo para realização da mesma, ReactJS, em aplicações front-end, e NodeJS, em aplicações back-end.💼
+Atuo na equipe de desenvolvimento da Dev10 como Desenvolvedor Full Stack, trabalhando em projetos sob demanda da equipe, utilizando a metodologia Scrum para a organização e realização das tarefas. Sou responsável pela implementação de novas funcionalidades, correções de bugs e testes na aplicação, sempre seguindo os padrões de projeto SOLID e aplicando conceitos de Domain-Driven Design (DDD). Para executar essas tarefas, utilizo tecnologias como React.js, TypeScript, Node.js, entre outras tecnologias propostas.💼
 
 #### - "Mantenha-se sempre humilde e modesto. Foque no sucesso do outro. Deixe que os seus falem por si mesmos" 🌎
 <div id="containerr" style="display: flex;">
