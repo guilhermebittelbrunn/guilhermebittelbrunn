@@ -3,7 +3,7 @@
 
 
 
-Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 7° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
+Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 8° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
 
 Atuo na equipe de desenvolvimento da Dev10 como Desenvolvedor Full Stack, trabalhando em projetos sob demanda da equipe, utilizando a metodologia Scrum para a organização e realização das tarefas. Sou responsável pela implementação de novas funcionalidades, correções de bugs e testes na aplicação, sempre seguindo os padrões de projeto SOLID e aplicando conceitos de Domain-Driven Design (DDD). Para executar essas tarefas, utilizo tecnologias como React.js, TypeScript, Node.js, entre outras tecnologias propostas.💼
 
