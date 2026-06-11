@@ -37,10 +37,12 @@ Atuo como **Desenvolvedor Full Stack** na equipe de desenvolvimento da **Dev10**
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg#gh-light-mode-only" alt="Next.js"/>
- 
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS"/>
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS"/>
+</p>
+
+<p align="center">
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
   <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis"/>
@@ -56,10 +58,8 @@ Atuo como **Desenvolvedor Full Stack** na equipe de desenvolvimento da **Dev10**
 
 ### 📊 Minhas estatísticas no GitHub
 
-
-
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermebittelbrunn&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
