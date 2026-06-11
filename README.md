@@ -1,29 +1,81 @@
-# Olá, seja bem-vindo! 🖥️👋
-<a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/guilherme_bittelbrunn/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/guilherme.bittelbrunn"><img src="https://img.shields.io/badge/facebook-0077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="mailto:guilherme.bitte@unifebe.edu.br"><img src="https://img.shields.io/badge/e‑mail-F13536.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
+<h1 align="center">Olá, seja bem-vindo(a)! 🖥️👋</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-bittelbrunn-2b6114217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilherme.bitte@unifebe.edu.br">
+    <img src="https://img.shields.io/badge/E--mail-F13536.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://github.com/guilhermebittelbrunn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Meu nome é **Guilherme Bittelbrunn** 🙋‍♂️ — comecei a estudar programação e desenvolvimento web em **2020** e hoje sou **formado em Sistemas de Informação** 🎓.
+
+Sou apaixonado por construir aplicações bem estruturadas, escaláveis e de fácil manutenção, com atenção especial à qualidade do código e às boas práticas de arquitetura.
+
+---
+
+### 💼 O que faço hoje
+
+Atuo como **Desenvolvedor Full Stack** na equipe de desenvolvimento da **Dev10**, trabalhando em projetos sob demanda e utilizando a metodologia **Scrum** para a organização e execução das tarefas. Sou responsável pela implementação de novas funcionalidades de ponta a ponta, pela correção de bugs e pela melhoria contínua das aplicações existentes, além da escrita e execução de testes para garantir a confiabilidade do sistema. Nesse processo, aplico os princípios **SOLID**, **Clean Architecture** e os conceitos de **Domain-Driven Design (DDD)**, participo ativamente de *code reviews* e de discussões técnicas com a equipe, sempre utilizando tecnologias como **React.js**, **TypeScript**, **Node.js** e **NestJS**, entre outras propostas pelos projetos.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg#gh-light-mode-only" alt="Next.js"/>
+ 
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
+  <img height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg#gh-light-mode-only" alt="GitHub"/>
+</p>
+
+---
+
+### 📊 Minhas estatísticas no GitHub
 
 
 
-Meu nome é Guilherme Bittelbrunn🙋‍♂️, atualmente estou no 8° período da faculdade de Sistemas de Informação🏫, comecei a estudar programação e desenvolvimento web em 2020.📚
-
-Atuo na equipe de desenvolvimento da Dev10 como Desenvolvedor Full Stack, trabalhando em projetos sob demanda da equipe, utilizando a metodologia Scrum para a organização e realização das tarefas. Sou responsável pela implementação de novas funcionalidades, correções de bugs e testes na aplicação, sempre seguindo os padrões de projeto SOLID e aplicando conceitos de Domain-Driven Design (DDD). Para executar essas tarefas, utilizo tecnologias como React.js, TypeScript, Node.js, entre outras tecnologias propostas.💼
-
-#### - "Mantenha-se sempre humilde e modesto. Foque no sucesso do outro. Deixe que os seus falem por si mesmos" 🌎
-<div id="containerr" style="display: flex;">
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-            <img align="center" height="30" width="40" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
-</div
-<br>
-<br>
-<div text-align:center>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=7&theme=dracula"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermebittelbrunn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermebittelbrunn&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermebittelbrunn&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
+---
+
+### 📫 Onde me encontrar
+
+- 💼 LinkedIn: [linkedin.com/in/guilherme-bittelbrunn](https://www.linkedin.com/in/guilherme-bittelbrunn-2b6114217/)
+- 📧 E-mail: guilherme.bitte@unifebe.edu.br
+
+---
+
+<p align="center">
+  <i>"Mantenha-se sempre humilde e modesto. Foque no sucesso do outro. Deixe que os seus resultados falem por si mesmos." 🌎</i>
+</p>
