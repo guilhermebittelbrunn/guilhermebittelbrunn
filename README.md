@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Meu nome é **Guilherme Bittelbrunn** 🙋‍♂️ — comecei a estudar programação e desenvolvimento web em **2020** e hoje sou **formado em Sistemas de Informação** 🎓.
+Meu nome é **Guilherme Bittelbrunn** 🙋‍♂️ comecei a estudar programação e desenvolvimento web em **2020** e hoje sou **formado em Sistemas de Informação** 🎓.
 
 Sou apaixonado por construir aplicações bem estruturadas, escaláveis e de fácil manutenção, com atenção especial à qualidade do código e às boas práticas de arquitetura.
 
@@ -24,7 +24,7 @@ Sou apaixonado por construir aplicações bem estruturadas, escaláveis e de fá
 
 ### 💼 O que faço hoje
 
-Atuo como **Desenvolvedor Full Stack** na equipe de desenvolvimento da **Dev10**, trabalhando em projetos sob demanda e utilizando a metodologia **Scrum** para a organização e execução das tarefas. Sou responsável pela implementação de novas funcionalidades de ponta a ponta, pela correção de bugs e pela melhoria contínua das aplicações existentes, além da escrita e execução de testes para garantir a confiabilidade do sistema. Nesse processo, aplico os princípios **SOLID**, **Clean Architecture** e os conceitos de **Domain-Driven Design (DDD)**, participo ativamente de *code reviews* e de discussões técnicas com a equipe, sempre utilizando tecnologias como **React.js**, **TypeScript**, **Node.js** e **NestJS**, entre outras propostas pelos projetos.
+Atualmente sou um **Desenvolvedor Full Stack Pleno** na equipe de desenvolvimento da DEV10, onde trabalho na evolução e manutenção de produtos e serviços da plataforma. Atuo no desenvolvimento de novas features, integrações, bugs e melhorias técnicas, desde o levantamento do problema e definição da solução até a implementação e entrega. Também estou envolvido no planejamento técnico e na criação de arquiteturas para novos sistemas e recursos na empresa, ajudando a definir estruturas, integrações, tecnologias e padrões arquiteturais. Tenho experiência em criar aplicações tanto frontend quanto backend com React, Next.js, TypeScript, Node.js e NestJS, além de lidar com PostgreSQL, Redis, RabbitMQ e serviços da AWS. Também participo da definição de arquitetura e da otimização de aplicações e bancos de dados, sempre seguindo os princípios de SOLID, Domain-Driven Design (DDD) e boas práticas de engenharia de software, com foco em soluções sustentáveis, escaláveis e de fácil manutenção.
 
 ---
 
@@ -59,13 +59,10 @@ Atuo como **Desenvolvedor Full Stack** na equipe de desenvolvimento da **Dev10**
 ### 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebittelbrunn&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermebittelbrunn&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermebittelbrunn&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
+
 
 ---
 
